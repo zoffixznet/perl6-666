@@ -2,7 +2,8 @@
 
 # NAME
 
-ווו - 666th module in the Perl 6 Ecosystem is properly Evil!
+666th module in the Perl 6 Ecosystem is properly Evil!
+
 # SYNOPSIS
 
 ```perl6
@@ -16,7 +17,7 @@
 # DESCRIPTION
 
 This module is 666th to make it into the Perl 6's ecosystem. ו is Hebrew
-letter Vav, which is the sixth letter, so naturally ווו is 666 devilish and
+letter Vav, which is the sixth letter, so naturally ווו is 666—devilish and
 bad and stuff (P.S. this is why
 [Monster Drink is evil](https://www.google.com/search?q=monster+drink+is+666))
 
