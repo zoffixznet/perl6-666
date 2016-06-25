@@ -1,14 +1,14 @@
 {
     "perl"         : "6.c",
-    "name"         : "Test::When",
+    "name"         : "ווו",
     "version"      : "1.001001",
-    "description"  : "Selectively run tests based on the environment and installed modules and libs",
+    "description"  : "666th module in the Perl 6 Ecosystem is properly Evil!",
     "depends"      : [ ],
     "test-depends" : [ "Test" ],
     "provides"     : {
-        "Test::When" : "lib/Test/When.pm6"
+        "ווו" : "lib/ווו.pm6"
     },
     "authors"      : [ "Zoffix Znet" ],
     "source-url"   :
-        "git://github.com/zoffixznet/perl6-Test-When.git"
+        "git://github.com/zoffixznet/perl6-666.git"
 }
