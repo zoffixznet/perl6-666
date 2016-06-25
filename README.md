@@ -17,14 +17,15 @@
 # DESCRIPTION
 
 This module is 666th to make it into the Perl 6's ecosystem. ו is Hebrew
-letter Vav, which is the sixth letter, so naturally ווו is 666—devilish and
+letter Vav, which is the sixth letter, so naturally ווו is 666—
+devilish and
 bad and stuff (P.S. this is why
 [Monster Drink is evil](https://www.google.com/search?q=monster+drink+is+666))
 
 On load, this module will randomly install side effects into common
 subroutines. Don't worry, they are not destructive! Devil promises!
 
-If you dislike randomness, you can also call subroutine ווו to see those
+If you dislike randomness, you can also call subroutine `ווו` to see those
 effects.
 
 ![](devil.gif)
